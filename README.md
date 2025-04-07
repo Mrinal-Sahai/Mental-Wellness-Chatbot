@@ -3,9 +3,9 @@
 A conversational AI-based chatbot designed to assist users in managing stress, anxiety, and general mental wellness. It leverages the power of the **Akash Chat API** for generating natural, supportive, and intelligent conversations with users seeking emotional support or wellness guidance.
 
 ## 💡 Contributors
-Kshitiz Singhal     https://github.com/kshitizsinghal13
-Mrinal Sahai        https://github.com/Mrinal-Sahai
-Anushka Jain        https://github.com/anushhka-jainn
+- Kshitiz Singhal     https://github.com/kshitizsinghal13
+- Mrinal Sahai        https://github.com/Mrinal-Sahai
+- Anushka Jain        https://github.com/anushhka-jainn
 
 ## 💡 Features
 
