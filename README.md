@@ -2,6 +2,11 @@
 
 A conversational AI-based chatbot designed to assist users in managing stress, anxiety, and general mental wellness. It leverages the power of the **Akash Chat API** for generating natural, supportive, and intelligent conversations with users seeking emotional support or wellness guidance.
 
+## 💡 Contributors
+Kshitiz Singhal     https://github.com/kshitizsinghal13
+Mrinal Sahai        https://github.com/Mrinal-Sahai
+Anushka Jain        https://github.com/anushhka-jainn
+
 ## 💡 Features
 
 - 🤖 AI-Powered Chat Interface
@@ -25,22 +30,25 @@ A conversational AI-based chatbot designed to assist users in managing stress, a
 - **Database**: MySQL
 - **Deployment**: (For future scope: Akash Network decentralized deployment)
 
+## 💡 Demo
+https://www.loom.com/share/a1f771a6a7894909a290b4adef00fd7c?sid=2fa7db52-d32e-4ebf-bdf7-f838b68e93ca
+
 ## 📦 Installation & Setup
 
-### Frontend (React)
+### Frontend (React-Port 3000)
 
 ```bash
 npm install
 npm install axios
-npm start    (will start on port 3000)
+npm start    
+```
 
-### Backend (Flask)
+### Backend (Flask -Port 5000)
 
 ```bash
-python app.py   (will start on port 5000)
+python app.py   
+```
 
-## 💡 Contributors
-Kshitiz Singhal
-Mrinal Sahai
-Anushka Jain 
+
+
 
